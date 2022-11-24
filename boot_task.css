@@ -1,0 +1,51 @@
+.holicardbottom{
+    background-image:linear-gradient( #FF9F4A , #FF3C83);
+    height: 80vh;
+    width: 100vw;
+    background-size: cover;
+    
+}
+.imageres{
+    height: 70px;
+    width: 70px;
+
+}
+.holiscard{
+    background-color:white ;
+    width: 150px;
+    border-radius: 15px;
+    padding: 10px;
+    height: 145px;
+    text-align: center;
+    margin:15px;
+}
+.holiheading{
+    font-size: 15px;
+    font-weight:normal ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.holipara{
+    font-weight: bold;
+}
+.holiscard:hover{
+    background-color: plum;
+    transform:scale(1.4);
+
+}
+#go{
+    background-color: white;
+    color: #323f4b;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+.stylinglogo{
+    width: 150px;
+    height: 60px;
+    padding: 5px;
+}
+.back{
+    background-color: black;
+}
